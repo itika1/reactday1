@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/reactday1/static/css/main.a617e044.chunk.css",
-    "main.js": "/reactday1/static/js/main.5add71e5.chunk.js",
-    "main.js.map": "/reactday1/static/js/main.5add71e5.chunk.js.map",
+    "main.js": "/reactday1/static/js/main.a186f70b.chunk.js",
+    "main.js.map": "/reactday1/static/js/main.a186f70b.chunk.js.map",
     "runtime-main.js": "/reactday1/static/js/runtime-main.d9406c21.js",
     "runtime-main.js.map": "/reactday1/static/js/runtime-main.d9406c21.js.map",
-    "static/js/2.f34d3e39.chunk.js": "/reactday1/static/js/2.f34d3e39.chunk.js",
-    "static/js/2.f34d3e39.chunk.js.map": "/reactday1/static/js/2.f34d3e39.chunk.js.map",
+    "static/js/2.4b0247a7.chunk.js": "/reactday1/static/js/2.4b0247a7.chunk.js",
+    "static/js/2.4b0247a7.chunk.js.map": "/reactday1/static/js/2.4b0247a7.chunk.js.map",
     "static/js/3.4d2a8249.chunk.js": "/reactday1/static/js/3.4d2a8249.chunk.js",
     "static/js/3.4d2a8249.chunk.js.map": "/reactday1/static/js/3.4d2a8249.chunk.js.map",
     "index.html": "/reactday1/index.html",
     "static/css/main.a617e044.chunk.css.map": "/reactday1/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.f34d3e39.chunk.js.LICENSE.txt": "/reactday1/static/js/2.f34d3e39.chunk.js.LICENSE.txt"
+    "static/js/2.4b0247a7.chunk.js.LICENSE.txt": "/reactday1/static/js/2.4b0247a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9406c21.js",
-    "static/js/2.f34d3e39.chunk.js",
+    "static/js/2.4b0247a7.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.5add71e5.chunk.js"
+    "static/js/main.a186f70b.chunk.js"
   ]
 }
