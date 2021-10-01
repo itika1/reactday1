@@ -1,14 +1,12 @@
 import './App.css';
+import './Countries.css';
 import Title from './Title';
-import Product from './Product';
-import Mycomponent from './Mycomponent';
+import Countries from './Countries';
 function App() {
   return (
     <div className="App">
-      <h1>LetsUpgrade</h1>
       <Title />
-      <Product />
-      <Mycomponent />
+      <Countries />
     </div>
   );
 }
